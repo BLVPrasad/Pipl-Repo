@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.145.86:8080/svn/goCampus"
+   name=""
+   revision="28"
+   last-author="man5721"
+   url="http://192.168.145.86:8080/svn/goCampus/Branches/main/gcmobile3/WebContent/api/img"
+   uuid="018fb87a-f7ea-2148-b3c9-51ea04aa62da"
+   committed-rev="28"
+   kind="dir"
+   committed-date="2012-11-01T10:03:48.317744Z"/>
+<entry
+   name="app_loading.png"
+   checksum="c89308337160e0376709bd6c85d560a1"
+   last-author="man5721"
+   text-time="2012-11-01T10:03:48.317000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"
+   prop-time="2012-11-01T12:17:11.621000Z"/>
+<entry
+   name="icon.png"
+   checksum="18e7ebdc69af375e748e18815fbae5f9"
+   last-author="man5721"
+   text-time="2012-11-01T10:03:48.317000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"
+   prop-time="2012-11-01T12:17:11.950000Z"/>
+<entry
+   name="phone_startup.png"
+   checksum="0048242ea2f821d96933ca6c52be5713"
+   last-author="man5721"
+   text-time="2012-11-01T10:03:48.317000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"
+   prop-time="2012-11-01T12:17:12.028000Z"/>
+<entry
+   name="sencha.png"
+   checksum="01928ba50b208069681e14cfe15947c7"
+   last-author="man5721"
+   text-time="2012-11-01T10:03:48.317000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"
+   prop-time="2012-11-01T12:17:11.746000Z"/>
+<entry
+   name="sencha_small.png"
+   checksum="8a55fc0fbb3b4fe7d5111ec9499f514a"
+   last-author="man5721"
+   text-time="2012-11-01T10:03:48.317000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"
+   prop-time="2012-11-01T12:17:11.981000Z"/>
+<entry
+   name="tablet_startup.png"
+   checksum="4a5b54d7bf19fbbdab8763e5bdda81c1"
+   last-author="man5721"
+   text-time="2012-11-01T10:03:48.317000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"
+   prop-time="2012-11-01T12:17:11.715000Z"/>
+</wc-entries>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.145.86:8080/svn/goCampus"
+   name=""
+   revision="28"
+   last-author="man5721"
+   url="http://192.168.145.86:8080/svn/goCampus/Branches/main/gcmobile3/WebContent/api/css"
+   uuid="018fb87a-f7ea-2148-b3c9-51ea04aa62da"
+   committed-rev="28"
+   kind="dir"
+   committed-date="2012-11-01T10:03:48.317744Z"/>
+<entry
+   name="android.css"
+   checksum="0263f3af7fe97499ffe1ff75d45cd463"
+   last-author="man5721"
+   committed-rev="28"
+   text-time="2012-11-01T10:03:48.317000Z"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"/>
+<entry
+   name="apple.css"
+   checksum="f1f2b2fcfd9f3c1717273251f91a8ac6"
+   last-author="man5721"
+   committed-rev="28"
+   text-time="2012-11-01T10:03:48.317000Z"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"/>
+<entry
+   name="oreilly.css"
+   checksum="0fcd1b491ca783dbef0c4d2bf16ed29c"
+   last-author="man5721"
+   committed-rev="28"
+   text-time="2012-11-01T10:03:48.317000Z"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"/>
+<entry
+   name="sencha-touch-debug.css"
+   checksum="9f09722959eab0f089a07f4c6c3be5cf"
+   last-author="man5721"
+   committed-rev="28"
+   text-time="2012-11-01T10:03:48.317000Z"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"/>
+<entry
+   name="sencha-touch.css"
+   checksum="8513ad635c5de84332f38a812f6f3804"
+   last-author="man5721"
+   committed-rev="28"
+   text-time="2012-11-01T10:03:48.317000Z"
+   kind="file"
+   committed-date="2012-11-01T10:03:48.317744Z"/>
+</wc-entries>
